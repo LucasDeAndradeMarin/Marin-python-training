@@ -1,0 +1,4 @@
+Lucas;20
+Adriana;50
+Pedro;87
+Antonio;61
